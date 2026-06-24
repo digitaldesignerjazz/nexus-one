@@ -1,0 +1,17 @@
+# Dependencies
+/node_modules
+/target
+
+# Build artifacts
+*.o
+*.exe
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
